@@ -2,12 +2,12 @@
 title: Mathematics in the Modern World
 subtitle: Emilio Aguinaldo College (slides)
 output:
-    md_document:
-        variant: gfm
-        preserve_yaml: true
-#    html_document:
+    html_document:
+#    pdf_document:
         toc: true
         toc_depth: 4
+        tock_float: true
+        theme: spacelab
 ---
 
 \pagebreak
