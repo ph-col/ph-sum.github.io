@@ -1,16 +1,10 @@
 ---
+title: Mathemathics in the Modern World
 output:
     html_document:
+        toc: true
         theme: readable
 ---
-# Go back to main
-
-[HTML link](https://ph-col.github.io/sum/)
-
-# Go back to minor subjects
-
-[HTML link](https://ph-col.github.io/sum/minor/)
-
 ## EAC
 
 [HTML link](https://ph-col.github.io/sum/minor/mmw/mmw-eac.html)
@@ -18,3 +12,13 @@ output:
 [PDF link](https://ph-col.github.io/sum/minor/mmw/mmw-eac.pdf)
 
 [R Markdown link](https://ph-col.github.io/sum/minor/mmw/mmw-eac.rmd)
+
+
+
+
+
+# Navigation
+
+[Back to main](https://ph-col.github.io/sum/)
+
+[Back to minor subjects](https://ph-col.github.io/sum/minor/)
