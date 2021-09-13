@@ -2,10 +2,24 @@
 output:
   md_document:
     preserve_yaml: true
+    toc: true
+    toc_depth: 4
     variant: gfm
 subtitle: Emilio Aguinaldo College (slides)
 title: Mathematics in the Modern World
 ---
+
+-   [Prelim](#prelim)
+    -   [L-2 - Patterns](#l-2---patterns)
+        -   [Logic Patterns](#logic-patterns)
+        -   [Geometric Patterns](#geometric-patterns)
+        -   [Word Patterns](#word-patterns)
+        -   [Number Patterns](#number-patterns)
+    -   [L-2-A Fibonacci Sequence](#l-2-a-fibonacci-sequence)
+        -   [Leonardo of Pisa](#leonardo-of-pisa)
+        -   [Fibonacci Sequence](#fibonacci-sequence)
+            -   [Fibonacci Rule](#fibonacci-rule)
+    -   [L-2-B Lucas Number](#l-2-b-lucas-number)
 
 # Prelim
 
