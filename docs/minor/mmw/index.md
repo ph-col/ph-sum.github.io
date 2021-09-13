@@ -1,6 +1,3 @@
-Mathematics in the Modern World
-Emilio Aguinaldo College (slides)
-
 # Prelim
 
 ## L-2 - Patterns
