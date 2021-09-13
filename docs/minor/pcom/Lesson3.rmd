@@ -1,0 +1,250 @@
+---
+Title: Lesson 3
+
+---
+
+# Lesson 3 - Processes Principles Ethics
+
+## LEARNING OUTCOMES
+
+At the end of this lesson, you should be able to:
+
+1. Explain the various communication models and how they help in understanding the communication process; 
+
+2. Identify the variables involved in the communication process; 
+
+3. Discuss the value of communication in enhancing one’s personal and professional relationships; 
+
+4. Determine the principles for effective oral and written communication; 
+
+5. Evaluate the differences between oral and written communication; 
+
+6. Point out the ethical issues involved in communication; and  
+
+7. Recognize the importance of a code of ethics in communication. 
+
+ 
+## COMMUNICATION MODELS
+
+- It is important to know the communication models because they will help you to understand how a communication process works 
+
+- It is only by knowing the flow of communication that you will be able to make the communication process effective 
+
+- A model is often abstract; it is a representation of a real world phenomenon applied to different forms 
+
+- The interplay of variables in the model is represented graphically 
+
+
+## CONCEPTUAL MODELS for HUMAN COMMUNICATION
+
+1. ARITSTOTLE’S COMMUNICATION MODEL emphasized that there are 3 variables in the communication process: 
+
+    - | Speaker | &#8594; | Speech | &#8594; | Audience |
+      | :-----: | :-----: | :----: | :-----: | :------: |
+      |         |         |        |         |          |
+
+    - The speaker variable is very important; without the speaker, there will be no speech to be produced 
+
+    - Depending on the profile of the audience, the speaker adjusts his/her speech to consider the audience  
+
+	- <ol> <table>
+		<tr>
+			<td> Age </td>
+			<td> Gender </td>
+		</tr>
+		<tr>
+			<td> Sex </td>
+			<td> Attitudes </td>
+		</tr>
+		<tr>
+			<td> Background </td>
+			<td> Political Orientation </td>
+		</tr>
+		<tr>
+			<td> Culture </td>
+			<td> Beliefs </td>
+		</tr>
+		<tr>
+			<td> Race </td>
+			<td> Views </td>
+		</tr>
+		<tr>
+			<td> Religion </td>
+		</tr>
+		<tr>
+			<td> Social & economic status </td>
+		</tr>
+	</table>
+	</ol>
+	
+2. LASWELL’S COMMUNICATION MODEL was conceptualized in 1948 which described communication as being focused on the following Ws: 
+
+	- Who says 
+
+	- What in 
+
+	- Which channel 
+
+	- to Whom  
+
+	- With What 
+
+|	Who 		| Says what	| In which channel	| To whom	| With what effect	|
+| :---------: | :-------: | :---------------: | :-------: | :---------------: |
+| Communicator| Message	| Medium			| Receiver	| Effect			|
+
+        - the whole process of communication begins with the communicator (who)
+
+        - sending out a message (what)
+
+        - using a medium (in which channel)
+
+        - for a receiver (to whom)
+
+        - experiencing an effect (with what effect) afterwards
+
+3. SHANNON-WEAVER’S COMMUNICATION MODEL was conceptualized in 1949 for the functioning of the radio and television serving as a model for technical communication, and later on, adopted in the field of communication 
+ 
+	- In this model, other components such as noise, reception, destination, and feedback have been identified 
+
+	- Other terms such as information source for the sender, transmitter for the encoder, decoder (reception) and receiver (destination) were introduced 
+
+| Information source	|	| Transmitter	|	|			|	| Reception	|	| Destination	|
+| :-------------------: | - | :-----------: | - | :-------: | - | :-------: | - | :-----------: |
+| Sender				| &#8594;| Encoder		| &#8594;| Channel	| &#8594;| Decoder	| &#8594;| Reciever		|		
+|						|	|				|	| <sup> &#8593; </sup> Noise <sup> &#8593; </sup>	|	|			|	|				|
+
+4. BERLO’S COMMUNICATION MODEL was conceptualized in 1960 is probably the most well-known among the communication; initially was called SMCR which stands for sender of the message, sent through a channel or medium to a receiver; however, it was modified later on to include noise, hence the acronym SMCRN. 
+
+	- The source being the originator of the message cast as the encoder 
+
+	- The encoder should practice communication skills such as 
+
+        - Listening
+
+        - Reading
+
+        - Speaking
+
+        - Writing
+
+	- The speaker’s attitude toward the audience or the subject as well as his/her knowledge about the topic on hand likewise counts along with the social system that his/her is in which includes values, beliefs, and practices and culture 
+
+	- The second variable which is the message includes: 
+
+		- Contents 
+
+		- Elements such as the language used and gestures employed;
+
+		- Treatment or the manner by which the message is transmitted 
+
+		- Structure which refers to the arrangement of parts or flow of the message
+
+ 
+
+	- The code shows how the message is sent: that is, the language (verbal code) used and the accompanying gestures (nonverbal code) employed 
+
+	- The third variables which is channel refers to the different senses: 
+
+		- Seeing
+
+		- Tasting
+
+		- Hearing
+
+		- Touching
+
+		- Smelling
+
+			
+	- Finally, the fourth variable is receiver, the one who decodes the message 
+
+ 
+## GENERAL PRINCIPLES OF EFFECTIVE COMMUNICATION
+
+1. Know your purpose in communicating: 
+
+	- To inform                         
+
+	- To entertain  
+
+	- To persuade 
+
+2. Know your audience: 
+
+    - Age
+
+    - Profession
+
+    - Educational Background
+
+    - Culture
+
+3. Know your topic 
+
+4. Adjust your speech or writing to the context of the situation; the environment in which your speech or writing is to be delivered determines the kind of language you will use. 
+
+
+## PRINCIPLES OF EFFECTIVE COMMUNICATION
+
+1. Be clear with your purpose; know by heart your objective. 
+
+2. Be complete with the message you deliver; your claims should be supported by facts and essential information. 
+
+3. Be concise; do not be wordy with your statements; brevity is a must. 
+
+4. Be natural with your delivery; use appropriate gestures and movements; feel confident even if you don’t feel confident enough. 
+
+5. Be specific and timely with your feedback; inputs are most helpful when provided on time. 
+
+
+## PRINCIPLES OF EFFECTIVE WRITTEN COMMUNICATION: THE 7Cs
+
+1. Be clear. Always be guided by your purpose in communication your message. 
+
+2. Be concise. Always stick to the point and be brief by focusing your main point. 
+
+3. Be concrete. Support your claims with enough facts. 
+
+4. Be correct. Observe grammatical correctness and spelling; always have time to revise and edit your work 
+
+5. Be coherent. The idea should be connected to each other and related to the topic; use transitional devices. 
+
+6. Be complete. Include all necessary information ; audience is always interested to receive new information. 
+
+7. Be courteous. Your tone should be friendly to eliminate confusion and misinterpretation. 
+
+
+## ETHICS OF COMMUNICATION
+
+- Communication ethics emphasizes that moral influence the behavior of an individual, group, or organization thereby affecting their communication 
+
+- It is important to note that one’s behavior should be regulated by honesty, decency, truthfulness, sincerity and moral uprightness. 
+
+ 
+### Be guided by the following to achieve ethical communication:
+
+1. Establish an effective value system that will pave the way for the development of your integrity as a person. 
+
+    - <p> One’s behaviour and decision - making style affect, in turn, the operations of an organization. </p>
+
+2. Provide complete and accurate information; whether it is needed or not, the data you provide should always be contextualized and correct. 
+
+3. Disclosed vital information adequately and appropriately; never conceal or hide information that are necessary for purposed of transparency. 
+
+- Observing a code of ethics is essential as it determines the kind of behavior that is proper and desirable over one that is displeasing and offensive 
+
+- A code of ethics sets the standards to be observed by a person or a company that will create a good reputation or a positive image not only for an individual but also for the organization. 
+
+
+## Synthesis
+
+- The communication models explain how the communication process works. Some of the well-known conceptual models are Aristotle, Shannon-Weaver, Laswell and Berlo’s models 
+
+- For oral communication to be effective, there is a need to be clear with the purpose, complete and concise with the message, natural with delivery, and specific and timely with the feedback. 
+
+- For written communication to be effective, the 7Cs, namely: clarity, conciseness, concreteness, correctness, coherence, completeness, and courtesy should be observed. 
+
+- A code of ethics is important for any organization. Without it, confusion, misunderstandings, and conflict arise within the structure since there are no standards to be observed. 
+
+ 

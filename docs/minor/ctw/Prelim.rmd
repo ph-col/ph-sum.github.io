@@ -1,0 +1,265 @@
+---
+title: Contemporary World Prelim
+header-includes:
+    - \usepackage{verbatim}
+output: pdf_document
+---
+
+\tableofcontents
+
+\pagebreak
+
+# Introduction to the Study of Globalization
+
+
+## Intended Learning Outcomes:
+
+- Define what Globalization is and what it stands for in our Contemporary World.
+
+- Differentiates the competing conceptions of Globalization and undermine the various schools of thought and paradigms on Globalization.
+
+- Understand the raison d’etre (reason/justification for existence) of  Globalization; its goals and aspirations.
+
+- Equip students with 21st century learning and develop higher order thinking skills that will lead towards a deeper understanding of  Globalization and its role in the world; in the Philippine society as well as  its role in the formation of students in relation to their future professions.
+
+
+## What is Globalization?
+
+- Refers to the processes by which more people across large distance become connected in more different ways.
+
+- Deterritorialization is the process through which the constraints of physical space lose their hold on social relations.
+
+\begin{comment}
+
+In terms of the economy, globalization refers to the expansion of capitalism to include all places around the world into one globally integrated economic system.
+
+Culturally, it refers to the global spread and integration of ideas, values, norms, behaviors, and ways of life.
+
+Politically, it refers to the development of forms of governance that operate at the global scale, whose policies and rules cooperative nations are expected to abide.
+
+These three core aspects of globalization are fueled by technological development, the global integration of communication technologies, and the global distribution of media.
+
+\end{comment}
+
+## Gilles Deleuze and Felix Guattari
+
+**Deterritorialization**
+- the process in which to undo what has already been done. To take control away from places that have already been established.
+
+**Reterritorialization**
+- this is the process to re-do what has been undone to what has already been done. Except this time, the act of re-doing is to incorporate new power.
+
+
+## What is Globalization?
+
+- It is an interaction of people and primarily an economic process of integration which has social and cultural aspects as well.
+
+- The process by which capitalism expands across the globe as powerful economic actors seek profit in global markets and impose their rules everywhere.
+
+- Also known as *Neoliberalism*.
+
+- Means different things to different people.
+
+    - Korean Pentecostal missionary – new opportunity to spread the faith and convert lost souls abroad.
+
+    - Dominican immigration in the U. S. – growing new roots while staying deeply involved in the home village.
+
+    - Chinese apparel worker – chance to escape rural poverty by cutting threads off designer jeans.
+
+    - American executive – managing a far-flung supply chain to get products to stores.
+
+    - Filipino global justice advocate – rules of global game that favor the rich North over the South poor.
+
+
+## Theories of Globalization
+
+- World-System Theory – a perspective that globalization is essentially the expansion of the capitalist system around the globe. Capitalist world-system originated in the 16th century, when Europeans traders established enduring connections with Asia, Africa and the America. The core of the system, the dominant classes were supported by strong states as they exploited labor, resources, and trade opportunities, most notably in peripheral areas. Central purpose is capital accumulation by competing firms, which go through cycles of growth and decline.
+
+- World Polity Theory – state remains an important component of world society, but primarily attention goes to the global cultural and organization. All-encompassing world-polity and its associated with world culture, which supplies a set of cultural rules or scripts that specify how institution around the world should deal with common problem. Key elements is a general, globally legitimated model of how to form a state. Carriers of global principles, these organizations then help to build and elaborate world culture and world society further.
+
+- World Culture Theory – the world culture is indeed new and important, but less homogeneous than world polity. Globalization is a process of relativization. World society thus consists of a complex set of relationships among multiple units in the global field. Globalization compresses the world into a single entity, and people  necessarily become more and more aware of their relationship to this global presence. Central importance to this process is the problem of globality : how to make living together in one global system meaningful or even possible.
+
+
+## Emergence of Globalization
+
+- Globalization has been happening for a long time. (16th century Europe as the original source.)
+
+- Europeans established worldwide trade connections on their own terms, brought their culture to different regions by settling vast areas, and defined the ways in ways the different people were to interact with each other.
+
+- Late 19th century the period of intense globalization, when million migrated, trade generally expanded and new norms and organization came to govern international conduct.
+
+- In the 20th century, the movement of people, goods and finance across national borders was at least as free and significant as it is today.In the 2nd half of 20th century was significant period of globalization in its own right.
+
+- World War II gave globalization a new impetus. Obscured by Cold War divisions, the transformation of world society – in terms of linkages, institutions and culture and consciousness was nevertheless profound.
+
+
+## Globalization and the Expanding Market
+
+- **Expanding Market** - is the process of offering a product or service to a wider section of an existing market or into a new demographic, psychographic or geographic market. An economic system operating along capitalist lines now encompasses most region of the world, and economic motivates always have been important in creating global linkages, globalization takes place in many sphere for many reasons. Economy may be a driving force in creating global change in some periods, but it effects depend on what happens outside of world market.
+
+
+## Homogeneous World
+
+- Certain activities or institutions become global, they must displace existing local variable activities and institution. If there are more linkages, global institutions, and global values, presumably this means that more people will have more in common.
+
+
+### Reasons Why Globalization will not make the World Homogeneous
+
+- General rules and models are interpreted in light of local circumstances. Regions respond to similar economic constraints in different ways; countries still have great leeway in structuring their own policies; the same television program means different things to audiences; such as McDonald's adopts its menu and marketing to local tastes.
+
+- Growing similarity provokes reactions. Advocates for many cultures seek to protect their heritage or assert their identity. (action of indigenous people to claim their right to cultural survival.
+
+- Cultural and political differences have themselves become globally valid. The notion that the people and countries are entitled to their particularity of distinctiveness is itself part to global culture. the tension between homogeneity and heterogeneity is integral of globalization.
+
+
+## Is Globalization Harmful?
+
+- Globalization may be harmful to the well-being (fears) of individuals, countries and cultures :If the market is the driving force - it is bound to exacerbate (worsen) inequality by creating winners and losers. If makes world homogeneous - many cultures are in troubles. Loss of local autonomy may mean that the more people will be vulnerable (defenseless) to economic swings, environmental degradation, and epidemics.
+
+
+## Interdisciplinary Understanding of Globalization
+
+**Political Scientist**
+
+- Political activity increasingly takes place at the global level. Under globalization, politics can take place above the state through political integration schemes such as the European Union, the ASEAN integration where Philippines is involved though intergovernmental organizations such as the IMF, the WB, and the WTO. Political activity can also transcend national borders through global movements and Non- Governmental Organization (NGO) Civil society organizations act globally by forming alliances with organizations in other countries, using global communication system, and lobbying international organizations and actors directly, instead of working through their national governments.
+
+**Economist**
+
+- Integration through international trade of markets in goods and services as reflected in variety of possible measures (direct measures of barriers such as tariffs and transport costs, trade volumes and price related measures). Foreign direct investment, increased trade in intermediate product, international outsourcing of services like the call center industry, and international movement of persons like our OFWs. Include the international spread of ideas, from consumer tastes (like Coke and Hershey's) to intellectual ideas like technology patents and management principles and accounting standards.
+
+**Sociologist**
+
+- An on-going process that involves interconnected changes in the cultural and social spheres. It involves the spread and diffusion of ideologies- values, ideas, norms, beliefs and expectations - that foster, justify and provide legitimacy for economic and political globalization fueled by globally integrated communication  systems like social media, media coverage of the world's elite and their lifestyles, the movements of people around the world via business and leisure travel, and the expectations of these travelers that the host societies will provide amenities and experiences that reflects their own cultural norms.
+
+**Historian**
+
+- Historian follow rather than lead the way. Globalization is not new as a phenomenon but the word itself took hold only recently which records shows first use in English in 1930 and shows that usage soared suddenly in 1990's. Globalization defined most succinctly as the interconnection of places far distant from each other. Globalization is still too much entangled with world history, global history and transnational history.
+
+\pagebreak
+
+
+# Market Globalization       
+
+- An idea that reflects the concepts of globalization 
+
+- Seeks to endow globalization with free market norms and neoliberal meanings 
+
+\centerline{ endow = to empower }
+
+## Five Core Claims of Market Globalism               
+
+1. Globalization is about the liberalization and global integration of markets 
+
+    - Is anchored in the neo-liberal ideal of the self-regulating market as the normative basis for a future global order  
+
+    - Vital functions of free market - its rationality and efficiency, as well as its alleged ability to bring about greater social integration and material progress  - can only be realized in a democratic society that values and protects individual freedom. 
+
+    - The more you let market forces rule and the more you open your economy to free trade and competition, the more efficient your economy will be. 
+
+    - Globalization means the spread of free-market capitalism to virtually every country in the world. 
+
+2. Globalization is inevitable and irreversible. 
+
+    - Globalization reflects the spread of irreversible market forces driven by technological innovations that make the global integration of national economies inevitable. 
+
+    - Market Globalism is almost intertwined with the deep belief in the ability of markets to use new technologies to solve social problems far better than any alternative course. Governments, political parties, and social movements had no choice but to adjust to the inevitability of globalization. 
+
+    - since the emergence of a world based on the primacy of market values reflects the dictates of history, resistance would be unnatural, irrational and dangerous. 
+
+3. Nobody is in charge of globalization. 
+
+    - Liberal concept of the self-regulating market. 
+
+    - The link between globalization-market and the adjacent idea of leaderlessness is simple : if the undisturbed working of the market indeed preordain a certain course of history, then globalization does not reflect arbitrary agenda of a particular social class or group. 
+
+    - Globalists are not in charge in the sense of imposing their own political agenda on people. rather, they merely carry out the unalterable imperatives of a transcendental force much larger than narrow partisan interest. 
+
+    - like the market-globalist rhetoric of historical inevitability, the portrayal of globalization as a leaderless process seeks to both depoliticize the public debate on the subject and demobilize global justice movements. 
+
+4. Globalization benefits everyone. 
+
+    - The adjacent idea of  benefits for everyone is usually unpacked in material terms such as economic growth and prosperity.  
+
+    - When linked to globalism's peripheral concept, progress, the idea of benefit for everyone taps not only into liberalism's progressive worldview, but also draws on the powerful socialist vision of establishing an economic paradise on earth - albeit in the capitalist form of a worldwide consumerist utopia. 
+
+    - Television, radio and internet frequently place existing economic, political, and social realities within a neo-liberal framework; sustaining the claim that globalization benefits everyone through omnipresent affirmative images, websites, banner advertisements, and sound bites. 
+
+5. Globalization furthers the spread of democracy in the world. 
+
+    - Links  globalization and market to adjacent concept of democracy, which also plays a significant role in liberalism, conservatism, and socialism. 
+
+    - Globalists tend to treat freedom, free trade, and democracy as synonymous. 
+
+
+## Globalization Experience
+
+- No one experiences globalization in all its complexity but globalization is significant insofar as it reshapes the daily lives of billion of people. 
+
+- Experiencing globalization, does not mean that some abstract, impersonal force overwhelms individuals. 
+
+- People participate and respond in different ways.they can shape, resist, absorb, or try to avoid globalization. 
+
+- They can seek opportunity in it, feel the harm of it, or lament the power of it. 
+
+- Globalization is a central reality; for others, it is still on the margins of their lives.in short no experience of globalization.  
+ 
+- Formation of a new world society does not involve all people in the same way, and it does not create the same texture in everyone's life. 
+
+- But there are some commonalities in the global experience of globalization.to one degree of another, globalization is real to almost everyone.it envelope everyone in new institution.  
+
+- It poses a challenge, in the sense that even marginally affected groups must take a stance toward the world. 
+
+
+## From Laissez Faire To Neoliberalism
+
+- Laissez faire  
+
+    - Is the belief that economies and businesses function best when there is no interference by the government. It comes from the French, meaning to leave alone or to allow to do. It is one of the guiding principles of capitalism and a free market economy.
+
+- Neoliberalism  
+
+    - A theory of political economic practices that proposes that human well-being can best be advance by liberating individual entrepreneurial freedoms and skills within an institutional framework characterized by a strong private property rights, free markets and free trade.
+
+## The Role of the State in Neoliberalism
+
+- To create and preserve an institutional framework appropriate to such practice. 
+
+- To guarantee, for example the quality and integrity of money set up those military, defense, police, and legal structures and functions required  secure private property rights and to guarantee, by force if need be, the proper functioning of markets. 
+
+- If markets do not exists (in areas such as land, water, education, health care, social security or environmental pollution) then they must be created, by the state, if necessary. 
+
+- State interventions in markets must be kept to a bare minimum. 
+
+- The state cannot possibly possess enough information to second-guess market signals (prices) and because powerful interest group will inevitably distort and bias state intervention (particularly in democrats) for their own benefit. 
+
+
+## Characteristics of Neoliberalism
+
+- Government must limit subsidies 
+
+- Make a reform to tax laws in order to expand tax base 
+
+- Reduce deficit spending 
+
+- Limit protectionism 
+
+- Open markets 
+
+- Removal of fixed exchange rates 
+
+- Back deregulation 
+
+- Privatization 
+
+
+## Privatization
+
+- It is the process of transferring an enterprise or industry from the public sector to the private sector.  
+
+- Some of the government owned and controlled corporations were already transferred from public to private sector: Philippine Airlines (PAL) Philippine Long Distance Corporation (PLDT) Manila Electric Company (Meralco) Manila Waterworks and Sewerage System (MWSS) now Maynilad Water Services and Manila Water Company. 
+
+\pagebreak      
+ 
+\begin{align*}
+\frac{-(-4)^{}2}{8}*5-\frac{18}{(-3)^{2}}
+\end{align*}

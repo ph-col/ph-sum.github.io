@@ -1,0 +1,429 @@
+---
+title: Understanding the Self
+output:
+    pdf_document:
+        toc: true
+        toc_depth: 4
+---
+ 
+\pagebreak
+
+# Introduction
+
+## LEARNING OUTCOMES
+
+1. Discuss the different representations and conceptualizations of the self from various disciplinal perspectives;
+
+2. Examine the different influences, factors and forces that shape the self;
+
+3. Compare and contrast how the self has been represented across the different disciplines and perspectives; and
+
+4. Demonstrate critical and reflective thought in analyzing the development of one's self and identity by developing a theory of the self.
+ 
+
+##### Activity \newline \newline &nbsp;
+
+Do you truly know yourself?
+
+Directions: Answer the following questions HONESTLY. Rate your responses from 1-3. Cite your reason for each rating. All answers are ACCEPTED.
+ 
+| | RATING SCALES |
+| :---: | :--- |
+| &nbsp; 1 | not true to me |
+| &nbsp; 2 | depends (between true and not true to me |
+| &nbsp; 3 | very true to me |
+
+1.  I have a strong sex appeal.
+
+2.  I’m proud of my physical figure.
+
+3.  I’m easy to get along with.
+
+4.  I’m lovable and easy to love.
+
+5.  I can adjust to different people and different situations.
+
+6.  I can be trusted in any transaction.
+
+7.  I have special talents and abilities.
+
+8.  I have a clean conscience and carry no guilty feelings.
+
+9.  I’m a good listener.
+
+10.  I’m emotionally stable and not easily rattled when facing trouble.
+
+### Self Terminology/Definition
+
+The term “self” is defined in many ways:
+
+1. Self is a unified being and is essentially connected to consciousness, awareness, and agency or with the faculty of rational choice.
+
+2. Self is the condition of identity that makes one subject of experience distinct from all others.
+
+3. Self is exhibited and inferred in the conduct and discourse that emanate from the individual alone.
+
+4. Self is the person regarded as an individual apart from all others.
+
+5. Self is one’s identity.
+
+6. Self is expressed in the first person.
+ 
+The Self is one of the most interesting topics that people talk about everyday.
+We may not be conscious about it but every time we mention the “I” e.g. *I will go to school, I hang out with my friends, I like to eat burger*, we are talking about the self as “actors.”
+Further, we always mention the “me” as the object, e.g. *tell me about it, give me something, it makes me feel awesome*.
+Noticeably, the self composes both the I as an actor and Me as the object.
+Our interest about the self is even more evident in the functional word variations of I and Me that we use in our everyday language depending on our purpose (e.g. my, mine, myself etc.)
+  
+Our consciousness of the existence of the self has been almost automatic or reflective and we are almost unaware that in our everyday lives, we are constantly talking about it.
+
+Many scholars (i.e. theorists, scientists, philosophers) in the different fields have attempted to explain and thoroughly expound on several issues and controversies about the nature, existence and dimensionality of self.
+ 
+#### Self-Understanding
+
++ Understanding of oneself: such as knowledge or understanding of one's own capabilities, character, feelings, or motivations.
+
++ One's conception of oneself especially as part of a group
+
+Source: https://www.merriam-webster.com
+
+# Prelim "The Self from Various Perspectives"
+
+## L-1 From the Perspective of Philosophy 1
+  
+In man’s pursuit for knowledge and truth, thinkers for centuries have searched for explanations and reasons for everything that exists around him.
+In Athens of Ancient Greece, approximately 600 BCE, marked the birth of Philosophy (literally, “love of wisdom”) as it influenced Western thought and still has until today.
+Questions centered on the universe and what possible role man may play in it.
+The Greeks in search for knowledge came up with answers that are both cognitive and scientific in nature (Price, 2000).
+
+For instance, Greek philosophers in Miletus chose to seek *natural explanations* to events and phenomena around him instead of seeking for supernatural explanations from the gods as what was passed down through the generations.
+
+### Socrates 
+ 
+> "The only true *wisdom* is in *knowing* you know *nothing*."
+>
+> &#8212; Socrates
+ 
+##### Profile
+
++ Mentor of Plato and first martyr of education, knowledge and philosophy.
+
++ The wisest of all men by Delphi Oracle.
+
++ Charged with corruption of minors and sentenced into death.
+
+##### Contributions
+
++ Socratic/ Dialectid Method (the search for the correct/ proper definition of a thing); its goal is to bring the person closer to the final understanding.
+
++ It is known to the world esp. in educational institutions (asking and answering questions to stimulate critical thinking, and to draw out ideas and underlying presumptions).
+
+##### Philosophy
+
++ **Knowing Thyself** ("The only true wisdom is in knowing you know nothing")
+
++ Happiness motivates us to act towards or avoid things that could have negative effects in our lives.
+
+##### View of Human Nature
+
++ "The unexamined life is not worth living."
+(making people think, seek, ask again and again and get them to touch their souls, which are the thinking and willing subject).
+
+### Plato
+
+> "For a man to conquer himself is the first and noblest of all victories."
+>
+> &#8212; Plato (Athenial Philosopher)
+ 
+##### Profile
+
++ Father of Academy (a place where learning and sharing happens).
+
++ Followed the idea of Socrates in Knowing Thyself.
+
+##### Contributions
+
++ **Theory of Forms** (forms refers to what are real; they're not objects that are encountered with the sences but can only be grapsped intellectually).
+
+    + Forms are:
+
+    1. Ageless, therefore are eternal;
+
+    2. Unchanging, therefore are permanent;
+
+    3. Unmoving and indivisible.
+
+#### Platonic Dualism
+
+1. The Realm of the Shadows (changing sensible things which are lesser entities and therefore imperfect and flawed).
+
+2. The Realm of Forms (eternal things which are permanent and perfect-the source of all reality and true knowledge).
+
+##### Philosophy
+
++ A person who is a follower of truth and wisdom will not be tempted by vices and will always be correct/ moral/ ethical.
+
++ "Allegory of Cave" (what people see in the cave see are only shadows of reality which they believe are real things and represents knowledge;
+what these people fail to realize is that the shadows are not real).
+
+##### View of Human Nature
+
++ Believed in the division of a person's body and soul which forms the person as a whole aside from the material things that could be observed and associated with a person.
+
++ Knowledge lies within the person's soul.
+
++ Plato's love begins with feeling or experience of what is lacking. He also agreed that people are intrinsically good.
+ 
+#### Components of Soul
+
+1. The Reason – rational and is the motivation for goodness and truth.
+
+2. The Spirited – non-rational and is the will or the drive toward action that can be influenced/pulled into two directions.
+
+3. The Appetites – irrational and lean towards the desire for pleasure of the body.
+
+#### Theory of being
+
+- The more the person knows, the more he is and the better he is.
+ 
+##### Platonic Love = non-sexual love
+ 
+ 
+### St. Augustine 
+
+> "The good man, though a slave, is free; the wicked, though he reigns, is a slave."
+>
+> &#8212; St. Augustine
+
+##### Profile
+
++ A saint and a philosopher of the church.
+
++ Wants to know about moral evil and why it existed in people, his personal desire for sensual pleasures and questions about all the sufferings in the world. 
+ 
+##### Contributions
+
++ An important figure in the development of Western Christianity.
+
++ To love God means to love one's fellowmen, and to love one's fellowmen means never to do any harm to another.
+
+##### Philosophy
+
++ God encompasses us all, that everything will be better if we are with God.
+
+##### View of Human Nature
+
++ **Realms of life:**
+
+    + God as the source of all reality and truth:
+
+        + Man is capable of knowing eternal truths through the existence of one eternal truth which is God.
+
+    + The sinfulness of man:
+
+        + The cause of sin or evil is an act of man's freewill.
+
+    + Men are sinners who do not follow God's will.
+
+#### Real Happiness
+
++ Real happiness can only be found in God. Problems arise because of the objects leads to the sin of greed.
+
+    1. Love of physical objects leads to the sin of greed.
+
+    2. Love for the other people is not lasting and excessive love for them is the sin of jealousy.
+
+    3. Love for the self leads to the sin of pride.
+
+> "Love for God is the supreme virtue and only through loving God can man find real happiness."
+>
+> &#8212; St. Augustine
+
+### Ren&eacute; Descartes
+
+> "I think, therefore I am."
+>
+> &#8212; Ren&eacute; Descartes 
+
+##### Profile
+
++ French philosopher known to be the "Father of Modern Philosophy".
+Because of his radical use of systematic and early scientific method to aid his idea and assumptions.
+
++ His dreams instructed him to construct a system of knowledge using just the power of human reason (Price 2000).
+
+##### Contributions
+
++ Introduced the **Cartesian Method** and invented analytic geometry
+('is there anything I can know with certainty?').
+
++ Through math, he discovered that the human mind has two powers:
+
+    1. Intuition - the ability to apprehend direction of certain truths.
+
+    2. Deduction - the power to discover what is not known by progressing in an orderly way from what is already known (process).
+
+##### Philosophy
+
++ There were always differences in the facts, ideas and opinions.
+
++ Reasoning could produce absolute truths about nature, existence, morality and God; the truths can be discovered are a priori.
+
+##### View of Human Nature
+
++ He believes that to doubt is to think; the cognitive aspect of human nature is his basis for the existence of the self.
+
++ The self is a combination of 2 distinct etities:
+
+    1. Cogito ergo sum - the things that thinks (mind) which is the proof of human existence.
+
+    2. Extenza - extension of the mind (body).
+
++ The body is like a machine that is controlled by the mind and aided by the mind.
+
+#### Propositions
+
++ Proponent of **Methodical Doubt**.
+
+    + Continuous process of questioning as part of one's existence.
+
++ Suggested the progression of new signts from simple to complex ideas.
+
+### John Locke
+
+> The only fence against the world is a thorough knowledge of it.
+>
+> &#8212; John Locke
+
+##### Profile
+
++ English philosopher and physician.
+
++ Interested in politics and like his father was a defender of the parliamentary system.
+
+##### Contributions
+
++ Published a book on the scope and limits of the human mind which played a significant role in the new era of thought known as the Enlightenment".
+
+##### Philosophy
+
++ Knowledge results from ideas produced by a posteriori or by objects that were experienced
+
+    + Forms of processes:
+
+        1. Sensation - objects are experienced through the senses.
+
+        2. Reflection - the mind looks at the objects that were experienced to discover relationships that may exist between them.
+
++ Ideas are not innate but rather the mind at birth is a *tabula rasa* (blank state).
+
++ Believed that "nothing exists in the mind that was not first in the senses"
+(what the senses have experienced are simple ideas which are the raw mterials from which knowledge begins).
+
+##### View of Human Nature
+
++ Morality has to do with the choosing or willing the good (Price, 2000); moral good depends on conformity or non-conformity of a person's behavior towards some law.
+
++ Laws:
+
+    1. Law of Opinion -
+where actions that are praiseworthy are called virtues and those that are not are called vice.
+
+    2. Civil Law -
+where right actions are enforced by people in authority.
+
+    3. Divine Law -
+set by God on the actions of man. This is deemed to be the true law for human behavior.
+
+### David Hume
+ 
+> Be a philosopher; but, amidst all your philosophy, be still a man.
+>
+> &#8212; David Hume (An enquiry concerning human understanding 1748)
+
+##### Profile
+
++ Scottish philospher.
+
++ Focused his work in the field of empiricism, skepticism, and naturalism.
+
+##### Contributions
+
++ He was credited for giving empiricism its clearest formulation;
+he discovered the limitations of the mind.
+
+#### Philosophical Ideologies
+
++ Rationalism – regards reason as the chief source and test of knowledge. Philosophers: Socrates, Plato and Descartes
++ Skepticism – always in doubt and that knowledge is uncertain. Philosophers: Humes and Socrates
++ Empiricism – all of our knowledge comes from our sensory experience. Philosophers: Humes, Locke and Aristotle
++ Naturalism – all beings and events in the universe are natural.
+
+>
+>
+> &#8212; Immanuel Kant
+
+>
+>
+> &#8212; Sigmund Freud
+
+>
+>
+> &#8212; Gilbert Ryle
+
+>
+>
+> &#8212; Patricia and Paul Churchland
+
+>
+>
+> &#8212; Maurice-Merleau Ponty
+ 
+>
+>
+> &#8212; George H. Mead
+
+
+>
+>
+> &#8212; Charles Horton Cooley
+
+
+>
+>
+> &#8212; Charles Horton Cooley
+
+>
+>
+> &#8212; Erving Goffman
+
+>
+>
+> &#8212; William James
+
+>
+>
+> &#8212; Murray Bowen
+
+>
+>
+> &#8212; Carl Rogers
+
+>
+>
+> &#8212; Donald Woods Winnicott
+
+>
+>
+> &#8212; Albert Bandura
+
+
+>
+>
+> &#8212; 
+
+
+
+
+  End of Philosophy 1
+ 
