@@ -2,14 +2,50 @@
 title: Mathematics in the Modern World
 subtitle: Emilio Aguinaldo College (slides)
 output:
-    html_document:
-#    pdf_document:
+#    html_document:
+    pdf_document:
         toc: true
         toc_depth: 4
 # html_document specific tags
 #        toc_float: true
-        theme: readable
+#        theme: readable
 ---
+
+\pagebreak
+
+## Course syllabus:
+
+### Prelim
+
+- Mathematics in our World (Patterns and Sequence)
+
+- Mathematical Language and Symbols (Language of Math, Language of Functions, Language of Sets, Unary and Binary Operations, Logic)
+
+- Problem Solving and Reasoning
+
+### Midterm
+
+- Mathematics as a Tool - Data Gathering
+
+- Measures of Central Tendency
+
+- Measures of Variability
+
+- Measures of Position
+
+- Correlation
+
+- Hypothesis Testing
+
+### Finals
+
+- Right Triangle Trigonometry
+
+- Codes (Cryptography)
+
+- Tautologies and Fallacies
+
+- Nature of Financial Management
 
 \pagebreak
 

@@ -1,0 +1,13 @@
+---
+output:
+    html_document:
+        theme: readable
+---
+
+## EAC
+
+[HTML link](https://ph-col.github.io/sum/minor/mmw/mmw-eac.html)
+
+[PDF link](https://ph-col.github.io/sum/minor/mmw/mmw-eac.pdf)
+
+[R Markdown link](https://ph-col.github.io/sum/minor/mmw/mmw-eac.rmd)
