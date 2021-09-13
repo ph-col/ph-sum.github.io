@@ -1,10 +1,11 @@
 ---
 title: Mathematics in the Modern World
 subtitle: Emilio Aguinaldo College (slides)
-header-includes:
-    - \usepackage{verbatim}
 output:
-    html_document:
+    md_document:
+        variant: gfm
+        preserve_yaml: true
+#    html_document:
         toc: true
         toc_depth: 4
 ---
