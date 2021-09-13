@@ -6,8 +6,8 @@ output:
 #    pdf_document:
         toc: true
         toc_depth: 4
-        toc_float: true
 # html_document specific tags
+#        toc_float: true
         theme: readable
 ---
 
