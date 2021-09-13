@@ -7,7 +7,7 @@ output:
         toc: true
         toc_depth: 4
         tock_float: true
-        theme: spacelab
+        theme: readable
 ---
 
 \pagebreak
