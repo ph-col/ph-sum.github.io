@@ -3,6 +3,13 @@ output:
     html_document:
         theme: readable
 ---
+# Go back to main
+
+[HTML link](https://ph-col.github.io/sum/)
+
+# Go back to minor subjects
+
+[HTML link](https://ph-col.github.io/sum/minor/)
 
 ## EAC
 
