@@ -4,7 +4,7 @@ subtitle: Emilio Aguinaldo College (slides)
 header-includes:
     - \usepackage{verbatim}
 output:
-    pdf_document:
+    html_document:
         toc: true
         toc_depth: 4
 ---
